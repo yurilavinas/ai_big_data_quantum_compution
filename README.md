@@ -1,11 +1,11 @@
 # ai_big_data_quantum_compution
 SIGEVO -  inequality project
 
-## CLASSIFICATION - NICK
+## CLASSIFICATION - NICK, WOJCIECH
 
-## DRIFT VERIFICATION - Wojciech
+## DRIFT VERIFICATION - YURI
 
 ## NLP - BENJI
 
-## RELATED WORKS - YURI
+## RELATED WORKS - PENOUSAL
 
