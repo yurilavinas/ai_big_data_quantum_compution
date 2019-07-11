@@ -28,4 +28,7 @@ PageHinkley -> A modification of the CUSUM algorithm. The cumulative difference 
 
 
 ## RELATED WORKS - PENOUSAL
+Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data 
+https://journals.sagepub.com/doi/full/10.1177/2053951717743530
 
+It shows that the problem persists, even after removing sensitive information
