@@ -38,7 +38,7 @@ Yet another paper that can help frame the problem
 
 AI-assisted recruitment is biased. Here’s how to make it more fair
 https://www.weforum.org/agenda/2019/05/ai-assisted-recruitment-is-biased-heres-how-to-beat-it/
-also good for framing purposes
+also good for framing purposes, it mentions several cases and explains how large companies use AI for hiring people (second part of the article).
 
 AI can be sexist and racist — it’s time to make it fair
 https://www.nature.com/articles/d41586-018-05707-8 this paper can help establishing the relevance of the problem and the dimension.
