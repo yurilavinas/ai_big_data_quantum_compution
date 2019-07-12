@@ -27,12 +27,13 @@ PageHinkley -> A modification of the CUSUM algorithm. The cumulative difference 
 ## NLP 
 
 
-## RELATED WORKS 
+### RELATED WORKS 
 Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data 
 https://journals.sagepub.com/doi/full/10.1177/2053951717743530
-
 It shows that the problem persists, even after removing sensitive information
 
-It’s a Man’s Wikipedia?Assessing Gender Inequality in an Online Encyclopedia
+Its a Mans Wikipedia?Assessing Gender Inequality in an Online Encyclopedia
 https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10585/10528
+
+
 ---
