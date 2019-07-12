@@ -43,6 +43,10 @@ also good for framing purposes, it mentions several cases and explains how large
 AI can be sexist and racist — it’s time to make it fair
 https://www.nature.com/articles/d41586-018-05707-8 this paper can help establishing the relevance of the problem and the dimension.
 
+Economic Models of (Algorithmic) Discrimination
+http://www.mlandthelaw.org/papers/goodman2.pdf
+
+
 
 Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data 
 https://journals.sagepub.com/doi/full/10.1177/2053951717743530
