@@ -27,12 +27,21 @@ PageHinkley -> A modification of the CUSUM algorithm. The cumulative difference 
 ## NLP 
 
 
-## RELATED WORKS 
+### RELATED WORKS 
+On the (im)possibility of fairness
+https://arxiv.org/pdf/1609.07236.pdf
+The paper revolves arround the definition of fairness in algorithmic terms.
+
+AI can be sexist and racist — it’s time to make it fair
+https://www.nature.com/articles/d41586-018-05707-8 this paper can help establishing the relevance of the problem and the dimension.
+
+
 Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data 
 https://journals.sagepub.com/doi/full/10.1177/2053951717743530
-
 It shows that the problem persists, even after removing sensitive information
 
-It’s a Man’s Wikipedia?Assessing Gender Inequality in an Online Encyclopedia
+Its a Mans Wikipedia?Assessing Gender Inequality in an Online Encyclopedia
 https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10585/10528
+
+
 ---
